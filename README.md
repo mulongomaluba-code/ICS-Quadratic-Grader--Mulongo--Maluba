@@ -70,3 +70,4 @@ All calculations are performed **client-side**, with no data sent to any server.
 1. **Download or clone** this repository:
    ```bash
    git clone https://github.com/yourusername/quadratic-grade-app.git
+
